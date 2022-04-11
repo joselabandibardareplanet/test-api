@@ -29,7 +29,7 @@
 				{
 					"id": 2,
 					"id_category": 1,
-					"name": "Familia 2 de categoria 2",
+					"name": "Familia 2 de categoria 1",
 					"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris tristique, purus vitae tincidunt fermentum, purus augue tristique mi, id imperdiet ante ante et metus.",
 					"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/50px_x_50px_coloured_logo_on_white_background.svg",
 					"powers": [
