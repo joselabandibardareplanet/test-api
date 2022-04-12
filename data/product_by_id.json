@@ -1,0 +1,12 @@
+{
+    "id": 10,
+    "name": "WTD15 AM E23",
+    "serialNumber": "7736501366",
+    "idPower": 10,
+    "productImages": [
+        {
+            "id": 4,
+            "imageUrl": "/img/product10"
+        }
+    ]
+}
