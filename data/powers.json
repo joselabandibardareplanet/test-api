@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "ES Potencia 1",
+        "description": "Descripcion Potencia 1",
+        "idFamily": 1
+    },
+    {
+        "id": 2,
+        "name": "ES Potencia 2",
+        "description": "desc",
+        "idFamily": 2
+    },
+    {
+        "id": 8,
+        "name": "Potencia 1 de familia 1 y categoria 1",
+        "description": "Potencía número de familia 1 y categoría 1",
+        "idFamily": 1
+    },
+    {
+        "id": 9,
+        "name": "Minimaxx",
+        "description": "Minimaxx",
+        "idFamily": 8
+    },
+    {
+        "id": 10,
+        "name": "Hydrocompact",
+        "description": "Hydrocompact",
+        "idFamily": 9
+    },
+    {
+        "id": 11,
+        "name": "Celsius Pur/Next",
+        "description": "Celsius Pur/Next",
+        "idFamily": 8
+    },
+    {
+        "id": 12,
+        "name": "Waternox HP",
+        "description": "Waternox HP",
+        "idFamily": 12
+    },
+    {
+        "id": 13,
+        "name": "Cerapur",
+        "description": "Cerapur",
+        "idFamily": 14
+    },
+    {
+        "id": 14,
+        "name": "Cerapur Confort",
+        "description": "Cerapur Confort",
+        "idFamily": 15
+    },
+    {
+        "id": 15,
+        "name": "Cerapur Excellence Compact",
+        "description": "Cerapur Excellence Compact",
+        "idFamily": 16
+    }
+]

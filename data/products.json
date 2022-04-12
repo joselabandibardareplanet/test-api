@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1,
+        "name": "ES Producto 1",
+        "serialNumber": "ES0214ES",
+        "idPower": 1
+    },
+    {
+        "id": 7,
+        "name": "Producto para potencia 1",
+        "serialNumber": "123456789",
+        "idPower": 1
+    },
+    {
+        "id": 2,
+        "name": "ES Producto 2",
+        "serialNumber": "ES0214ES",
+        "idPower": 2
+    },
+    {
+        "id": 11,
+        "name": "WTD27 AME 23",
+        "serialNumber": "7703311062",
+        "idPower": 11
+    },
+    {
+        "id": 12,
+        "name": "WTD24 AME 23",
+        "serialNumber": "7703311063",
+        "idPower": 11
+    },
+    {
+        "id": 13,
+        "name": "WTD27 AME 31",
+        "serialNumber": "7703411057",
+        "idPower": 11
+    },
+    {
+        "id": 8,
+        "name": "WTD12 AM E23",
+        "serialNumber": "7736501362",
+        "idPower": 10
+    },
+    {
+        "id": 9,
+        "name": "WTD12 AM E31",
+        "serialNumber": "7736501364",
+        "idPower": 10
+    },
+    {
+        "id": 10,
+        "name": "WTD15 AM E23",
+        "serialNumber": "7736501366",
+        "idPower": 10
+    },
+    {
+        "id": 14,
+        "name": "HP 300S",
+        "serialNumber": "7736506160",
+        "idPower": 12
+    },
+    {
+        "id": 15,
+        "name": "HP 300",
+        "serialNumber": "7736506157",
+        "idPower": 12
+    },
+    {
+        "id": 16,
+        "name": "HP 250S",
+        "serialNumber": "7736506159",
+        "idPower": 12
+    },
+    {
+        "id": 17,
+        "name": "ZWBC 24-2 C 23",
+        "serialNumber": "7736900799",
+        "idPower": 13
+    },
+    {
+        "id": 18,
+        "name": "ZWBC 24-2 C 31",
+        "serialNumber": "7736900801",
+        "idPower": 13
+    },
+    {
+        "id": 19,
+        "name": "ZWBC 28-2 C 23",
+        "serialNumber": "7736900800",
+        "idPower": 13
+    },
+    {
+        "id": 20,
+        "name": "ZWBE 25-3 C 23",
+        "serialNumber": "7736900880",
+        "idPower": 14
+    },
+    {
+        "id": 21,
+        "name": "ZWBE 25-3 C 31",
+        "serialNumber": "7736900881",
+        "idPower": 14
+    },
+    {
+        "id": 22,
+        "name": "ZWBE 30-3 C 23",
+        "serialNumber": "7736900878",
+        "idPower": 14
+    },
+    {
+        "id": 23,
+        "name": "ZWB 25/28-1 A 23",
+        "serialNumber": "7736503762",
+        "idPower": 15
+    },
+    {
+        "id": 24,
+        "name": "ZWB 25/28-1 A 31",
+        "serialNumber": "7736503763",
+        "idPower": 15
+    },
+    {
+        "id": 25,
+        "name": "ZWB 25/32-1 A 23",
+        "serialNumber": "7736503760",
+        "idPower": 15
+    }
+]

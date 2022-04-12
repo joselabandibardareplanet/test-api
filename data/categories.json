@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "ES Categoria 1",
+        "description": "Desc 1",
+        "idCountry": 1
+    },
+    {
+        "id": 2,
+        "name": "ES Categoria 2",
+        "description": null,
+        "idCountry": 1
+    },
+    {
+        "id": 7,
+        "name": "Categoría 3",
+        "description": "Categoría número 3 modificada",
+        "idCountry": 1
+    },
+    {
+        "id": 8,
+        "name": "Calentadores",
+        "description": "Calentadores",
+        "idCountry": 1
+    },
+    {
+        "id": 9,
+        "name": "Bombas de Calor de Acs",
+        "description": "Bombas de Calor de Acs",
+        "idCountry": 1
+    },
+    {
+        "id": 10,
+        "name": "Calderas Cerapur",
+        "description": "Calderas Cerapur",
+        "idCountry": 1
+    }
+]
