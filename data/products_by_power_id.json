@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "ES Producto 1",
+        "serialNumber": "ES0214ES",
+        "idPower": 1
+    },
+    {
+        "id": 7,
+        "name": "Producto para potencia 1",
+        "serialNumber": "123456789",
+        "idPower": 1
+    }
+]
