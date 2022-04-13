@@ -1,0 +1,9 @@
+{
+    "id": 7,
+    "idProduct": 1,
+    "code1": "Nuevo fallo",
+    "code2": "Reinicia",
+    "definition": "El aparato se reinicia solo",
+    "diagnosis": "Se reinicia solo a los 30 segundos",
+    "image_url": "/img/faults/fault_img7.jpeg"
+}
