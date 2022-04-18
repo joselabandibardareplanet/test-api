@@ -6,7 +6,13 @@
     "productImages": [
         {
             "id": 4,
-            "imageUrl": "/img/product10"
+            "imageUrl": "/img/product10",
+            "type": "PRODUCT"
+        },
+        {
+            "id": 5,
+            "imageUrl": "/img/product10_1.jpg",
+            "type": "PRODUCT"
         }
     ]
 }
