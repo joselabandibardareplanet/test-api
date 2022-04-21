@@ -1,18 +1,66 @@
 {
-    "id": 10,
-    "name": "WTD15 AM E23",
-    "serialNumber": "7736501366",
-    "idPower": 10,
+    "id": 1,
+    "name": "ES Producto 1",
+    "serialNumber": "ES0214ES",
+    "idPower": 1,
+    "description": "Descripción Producto1",
     "productImages": [
         {
-            "id": 4,
-            "imageUrl": "/img/product10",
+            "id": 1,
+            "imageUrl": "/img/products/product_image_1.png",
             "type": "PRODUCT"
         },
         {
-            "id": 5,
-            "imageUrl": "/img/product10_1.jpg",
+            "id": 3,
+            "imageUrl": "/img/products/product_image_12.png",
             "type": "PRODUCT"
+        },
+        {
+            "id": 4,
+            "imageUrl": "/img/products/image_techdata.png",
+            "type": "TECH_DATA"
+        },
+        {
+            "id": 5,
+            "imageUrl": "/img/products/image_settings.png",
+            "type": "SETTINGS"
+        },
+        {
+            "id": 6,
+            "imageUrl": "/img/products/image_remotecontrol.png",
+            "type": "REMOTE_CONTROL"
+        },
+        {
+            "id": 7,
+            "imageUrl": "/img/products/image_display.png",
+            "type": "DISPLAY"
+        },
+        {
+            "id": 8,
+            "imageUrl": "/img/products/image_probevalues.png",
+            "type": "PROBE_VALUES"
+        },
+        {
+            "id": 9,
+            "imageUrl": "/img/products/image_evacuation.png",
+            "type": "EVACUATIONS"
+        }
+    ],
+    "productVideos": [
+        {
+            "id": 1,
+            "id_product": 1,
+            "url": "www.youtube.com/video_Product_1"
+        },
+        {
+            "id": 2,
+            "id_product": 1,
+            "url": "www.youtube.com/video_Product_2"
+        },
+        {
+            "id": 3,
+            "id_product": 1,
+            "url": "www.youtube.com/video_Product_3"
         }
     ]
 }
