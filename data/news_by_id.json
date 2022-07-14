@@ -1,11 +1,9 @@
-[
-  {
-    "id": 1,
-    "title": "El grupo Bosch crece un 3% en España",
-    "description": "El grupo Bosch cerró el año 2021 en España con unas ventas de 2.280 M€ en el mercado local, lo que supuso, a pesar de un entorno difícil, un aumento del 3% en comparación con el año anterior.",
-    "text": "La industria de la automoción en España finalizó 2016 con producciones y ventas cercanas a los niveles de antes de la crisis y las perspectivas para este año no son malas. En ese contexto asume la presidencia del Grupo Bosch para la península Ibérica Javier González Pareja, el primer español en ocupar ese puesto. Se trata, entre otras cosas, del mayor proveedor mundial de componentes para automóviles. Con una plantilla total que supera los 375.000 empleados repartidos en 60 países no es de extrañar su preocupación por “los posibles efectos de la nueva situación en Reino Unido y Estados Unidos”.\n\nDe cualquier manera, cree que se va a moderar algo el crecimiento del grupo respecto al registrado en 2016. Las ventas en 2015 superaron los 70.600 millones de euros, correspondiendo el 59% a su división de automoción, Mobility Solutions. Una actividad en la que Bosch crece a un 5% anual frente al 2% de media mundial. En cuanto a España, su tercer mercado más importante de Europa y con una plantilla de 8.700 trabajadores, también esperan crecer “aunque menos que en 2016”.",
-    "notified": false,
-    "idCountry": 1,
-    "image_url": "https://etimg.etb2bimg.com/thumb/msid-89461177,width-1200,resizemode-4/.jpg"
-  }
-]
+{
+  "id": 1,
+  "title": "El grupo Bosch crece un 3% en España",
+  "description": "El grupo Bosch cerró el año 2021 en España con unas ventas de 2.280 M€ en el mercado local, lo que supuso, a pesar de un entorno difícil, un aumento del 3% en comparación con el año anterior.",
+  "text": "La industria de la automoción en España finalizó 2016 con producciones y ventas cercanas a los niveles de antes de la crisis y las perspectivas para este año no son malas. En ese contexto asume la presidencia del Grupo Bosch para la península Ibérica Javier González Pareja, el primer español en ocupar ese puesto. Se trata, entre otras cosas, del mayor proveedor mundial de componentes para automóviles. Con una plantilla total que supera los 375.000 empleados repartidos en 60 países no es de extrañar su preocupación por “los posibles efectos de la nueva situación en Reino Unido y Estados Unidos”.\n\nDe cualquier manera, cree que se va a moderar algo el crecimiento del grupo respecto al registrado en 2016. Las ventas en 2015 superaron los 70.600 millones de euros, correspondiendo el 59% a su división de automoción, Mobility Solutions. Una actividad en la que Bosch crece a un 5% anual frente al 2% de media mundial. En cuanto a España, su tercer mercado más importante de Europa y con una plantilla de 8.700 trabajadores, también esperan crecer “aunque menos que en 2016”.",
+  "notified": false,
+  "idCountry": 1,
+  "image_url": "https://etimg.etb2bimg.com/thumb/msid-89461177,width-1200,resizemode-4/.jpg"
+}
