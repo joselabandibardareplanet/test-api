@@ -1,19 +1,19 @@
 [
     {
         "id": 1,
-        "title": "ES Noticia 1",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "title": "El grupo Bosch crece un 3% en España",
+        "description": "El grupo Bosch cerró el año 2021 en España con unas ventas de 2.280 M€ en el mercado local, lo que supuso, a pesar de un entorno difícil, un aumento del 3% en comparación con el año anterior.",
         "notified": false,
         "idCountry": 1,
-        "image_url": "/img/news/img1.jpg"
+        "image_url": "https://etimg.etb2bimg.com/thumb/msid-89461177,width-1200,resizemode-4/.jpg"
     },
     {
         "id": 2,
-        "title": "ES Noticia 2",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "title": "Bosch crea un cable universal para cargar coches eléctricos",
+        "description": "Un único cable sirve en casa y en la calle, en lugar de los dos actuales, y permite ahorrarse además la instalación de la caja de pared en el domicilio.",
         "notified": true,
         "idCountry": 1,
-        "image_url": "/img/news/img2.jpg"
+        "image_url": "https://motor.elpais.com/wp-content/uploads/2018/09/e60033d8-daimler-and-bosch-automated-valet-parking-3-980x540.jpg"
     },
     {
         "id": 6,
@@ -21,6 +21,6 @@
         "description": "Noticia número 1 modificada",
         "notified": false,
         "idCountry": 1,
-        "image_url": "/img/news/img6.jpg"
+        "image_url": "https://www.schwaebische-post.de/bilder/2018/09/20/90327615/25513670-die-robert-bosch-as-gmbh-auf-dem-foto-das-werk-in-gmuend-west-ist-nach-der-oberkochener-carl-zeiss-ag-die-firma-mit-den-zweitmeisten-arbeitsplaetzen-2ke9.jpg"
     }
 ]
