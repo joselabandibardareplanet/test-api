@@ -16,11 +16,11 @@
         "image_url": "https://motor.elpais.com/wp-content/uploads/2018/09/e60033d8-daimler-and-bosch-automated-valet-parking-3-980x540.jpg"
     },
     {
-        "id": 6,
-        "title": "Noticia 1",
-        "description": "Noticia número 1 modificada",
+        "id": 3,
+        "title": "Bosch da energía a motos y bicicletas",
+        "description": "El fabricante alemán es el mayor productor de motores eléctricos para las dos ruedas",
         "notified": false,
         "idCountry": 1,
-        "image_url": "https://www.schwaebische-post.de/bilder/2018/09/20/90327615/25513670-die-robert-bosch-as-gmbh-auf-dem-foto-das-werk-in-gmuend-west-ist-nach-der-oberkochener-carl-zeiss-ag-die-firma-mit-den-zweitmeisten-arbeitsplaetzen-2ke9.jpg"
+        "image_url": "https://imagenes.elpais.com/resizer/b6jjJaYs6zj4LJkIsbJ7LDPRAp8=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/DEPPWZALPDW42PQKXNML6LQUOQ.jpg"
     }
 ]
