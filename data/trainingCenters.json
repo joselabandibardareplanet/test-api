@@ -1,29 +1,29 @@
 [
     {
         "id": 1,
-        "name": "ES Centro Formacion 1",
-        "description": "bla bla bla bla",
-        "latitude": 15.8,
-        "longitude": 15.9,
+        "name": "Acqua Calderas",
+        "description": "Centro formativo Zaragoza",
+        "latitude": -7.716667,
+        "longitude": -51.5,
         "idCountry": 1,
-        "image_url": "/img/TrainingCenter/TC1.img"
+        "image_url": "https://i2.wp.com/www.cogitialbacete.org/wp-content/uploads/2017/05/Aula_Centro_Formaci%C3%B3n.jpg"
     },
     {
         "id": 2,
-        "name": "ES Centro Formacion 2",
-        "description": "bla bla",
-        "latitude": 18,
-        "longitude": 12,
+        "name": "Núcleos potencia",
+        "description": "Centro formativo Madrid",
+        "latitude": -8.06667,
+        "longitude": -51.46667,
         "idCountry": 1,
-        "image_url": "/img/TrainingCenter/TC2.img"
+        "image_url": "https://i2.wp.com/www.cogitialbacete.org/wp-content/uploads/2017/05/Aula_Centro_Formaci%C3%B3n.jpg"
     },
     {
         "id": 8,
-        "name": "Centro de formación 3",
-        "description": "Centro de formación 3",
-        "latitude": 24,
-        "longitude": 33,
+        "name": "Ciclos recreativos",
+        "description": "Centro formativo Barcelona",
+        "latitude": -7.716667,
+        "longitude": -51.5,
         "idCountry": 1,
-        "image_url": "/img/TrainingCenter/TC8.img"
+        "image_url": "https://static1.diariosur.es/www/multimedia/202202/03/media/cortadas/MEDAC-kjSD-U160774758789N7H-624x385@Diario%20Sur.jpg"
     }
 ]
