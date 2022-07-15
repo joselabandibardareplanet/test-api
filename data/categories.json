@@ -1,37 +1,37 @@
 [
     {
         "id": 1,
-        "name": "ES Categoria 1",
+        "name": "Bombas de calor",
         "description": "Desc 1",
         "idCountry": 1
     },
     {
         "id": 2,
-        "name": "ES Categoria 2",
+        "name": "Calderas de agua caliente",
         "description": null,
         "idCountry": 1
     },
     {
         "id": 7,
-        "name": "Categoría 3",
+        "name": "Equipos autónomos de generación de calor",
         "description": "Categoría número 3 modificada",
         "idCountry": 1
     },
     {
         "id": 8,
-        "name": "Calentadores",
+        "name": "Calderas de vapor",
         "description": "Calentadores",
         "idCountry": 1
     },
     {
         "id": 9,
-        "name": "Bombas de Calor de Acs",
+        "name": "Calderas de agua sobrecalentada",
         "description": "Bombas de Calor de Acs",
         "idCountry": 1
     },
     {
         "id": 10,
-        "name": "Calderas Cerapur",
+        "name": "Sistemas de recuperación",
         "description": "Calderas Cerapur",
         "idCountry": 1
     }
