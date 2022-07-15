@@ -9,7 +9,7 @@
         "id": 2,
         "name": "Hydropowerplus",
         "description": "desc",
-        "idFamily": 2
+        "idFamily": 1
     },
     {
         "id": 8,
@@ -21,37 +21,37 @@
         "id": 9,
         "name": "Minimaxx KME",
         "description": "Minimaxx",
-        "idFamily": 8
+        "idFamily": 1
     },
     {
         "id": 10,
         "name": "Minimaxx Excellence ",
         "description": "Hydrocompact",
-        "idFamily": 9
+        "idFamily": 1
     },
     {
         "id": 11,
         "name": "Hydrocompact",
         "description": "Celsius Pur/Next",
-        "idFamily": 8
+        "idFamily": 2
     },
     {
         "id": 12,
         "name": "Hydro 4200",
         "description": "Waternox HP",
-        "idFamily": 12
+        "idFamily": 8
     },
     {
         "id": 13,
         "name": "Celsius Pur/Next",
         "description": "Cerapur",
-        "idFamily": 14
+        "idFamily": 7
     },
     {
         "id": 14,
         "name": "Hydro 4300",
         "description": "Cerapur Confort",
-        "idFamily": 15
+        "idFamily": 9
     },
     {
         "id": 15,

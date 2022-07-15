@@ -2,13 +2,13 @@
     {
         "id": 1,
         "name": "Minimaxx",
-        "description": "bla bla bla bla bla bla",
+        "description": "Minimax",
         "idCategory": 1
     },
     {
         "id": 2,
         "name": "Hydrocompact",
-        "description": "bla bla bla bla bla bla",
+        "description": "Hydrocompact",
         "idCategory": 1
     },
     {

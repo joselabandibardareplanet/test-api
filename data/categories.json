@@ -40,5 +40,23 @@
         "name": "Solar",
         "description": "Solar",
         "idCountry": 1
+    },
+    {
+        "id": 12,
+        "name": "AA Comercial MonoSplit",
+        "description": "AA Comercial MonoSplit",
+        "idCountry": 1
+    },
+    {
+        "id": 13,
+        "name": "Calderas de pie",
+        "description": "Calderas de pie",
+        "idCountry": 1
+    },
+    {
+        "id": 14,
+        "name": "Mini VRF y VRF",
+        "description": "Mini VRF y VRF",
+        "idCountry": 1
     }
 ]
