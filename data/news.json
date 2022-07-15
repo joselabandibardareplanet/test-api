@@ -3,6 +3,7 @@
         "id": 1,
         "title": "El grupo Bosch crece un 3% en España",
         "description": "El grupo Bosch cerró el año 2021 en España con unas ventas de 2.280 M€ en el mercado local, lo que supuso, a pesar de un entorno difícil, un aumento del 3% en comparación con el año anterior.",
+        "date": "12/05/2021",
         "notified": false,
         "idCountry": 1,
         "image_url": "https://etimg.etb2bimg.com/thumb/msid-89461177,width-1200,resizemode-4/.jpg"
@@ -11,6 +12,7 @@
         "id": 2,
         "title": "Bosch crea un cable universal para cargar coches eléctricos",
         "description": "Un único cable sirve en casa y en la calle, en lugar de los dos actuales, y permite ahorrarse además la instalación de la caja de pared en el domicilio.",
+        "date": "24/06/2022",
         "notified": true,
         "idCountry": 1,
         "image_url": "https://motor.elpais.com/wp-content/uploads/2018/09/e60033d8-daimler-and-bosch-automated-valet-parking-3-980x540.jpg"
@@ -19,6 +21,7 @@
         "id": 3,
         "title": "Bosch da energía a motos y bicicletas",
         "description": "El fabricante alemán es el mayor productor de motores eléctricos para las dos ruedas",
+        "date": "11/02/2022",
         "notified": false,
         "idCountry": 1,
         "image_url": "https://imagenes.elpais.com/resizer/b6jjJaYs6zj4LJkIsbJ7LDPRAp8=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/DEPPWZALPDW42PQKXNML6LQUOQ.jpg"
