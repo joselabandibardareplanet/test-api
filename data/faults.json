@@ -20,10 +20,46 @@
     {
         "id": 7,
         "idProduct": 1,
-        "code1": "Nuevo fallo",
-        "code2": "Reinicia",
-        "definition": "El aparato se reinicia solo",
-        "diagnosis": "Se reinicia solo a los 30 segundos",
+        "code1": "ES NO ENCIENDE",
+        "code2": "0101",
+        "definition": "El aparato no enciende",
+        "diagnosis": "El aparato no enciende ni reacciona a la pulsación de botón de encendido",
+        "image_url": "/img/faults/fault_img7.jpeg"
+    },
+    {
+        "id": 8,
+        "idProduct": 1,
+        "code1": "ES PILOTO FLUIDOS",
+        "code2": "0230",
+        "definition": "El piloto de fallo de fluidos está iluminado",
+        "diagnosis": "Está iluminado el piloto de fluidos, sin relación con fallo real",
+        "image_url": "/img/faults/fault_img7.jpeg"
+    },
+    {
+        "id": 9,
+        "idProduct": 1,
+        "code1": "ES APAGADO",
+        "code2": "1154",
+        "definition": "El aparato se apaga y se mantiene apagado",
+        "diagnosis": "El aparato se apaga al mantenerse encendido varias horas",
+        "image_url": "/img/faults/fault_img7.jpeg"
+    },
+    {
+        "id": 10,
+        "idProduct": 1,
+        "code1": "ES LÍQUIDO VÁLVULA DE ENTRADA",
+        "code2": "0007",
+        "definition": "Se filtra agua",
+        "diagnosis": "Se pierde líquido por la valvula de entrada al tanque",
+        "image_url": "/img/faults/fault_img7.jpeg"
+    },
+    {
+        "id": 11,
+        "idProduct": 1,
+        "code1": "ES PÉRDIDA LIQUIDO SALIDA",
+        "code2": "0008",
+        "definition": "Se pierde agua por la salida del circuito",
+        "diagnosis": "El manguito de salida está dañado o mal instalado",
         "image_url": "/img/faults/fault_img7.jpeg"
     }
 ]
