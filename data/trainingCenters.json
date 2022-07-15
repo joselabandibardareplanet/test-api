@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name": "Ingeniería y Gestión Aragón S.L",
-        "description": "Centro formativo en Zaragoza",
+        "description": "Ingeniería y Gestión Aragón S.L",
+        "name": "Centro formativo en Zaragoza",
         "latitude": -7.716667,
         "longitude": -51.5,
         "idCountry": 1,
@@ -10,8 +10,8 @@
     },
     {
         "id": 2,
-        "name": "Ingeniería técnica automovilística",
-        "description": "Centro formativo en Madrid",
+        "description": "Ingeniería técnica automovilística",
+        "name": "Centro formativo en Madrid",
         "latitude": -8.06667,
         "longitude": -51.46667,
         "idCountry": 1,
@@ -19,8 +19,8 @@
     },
     {
         "id": 8,
-        "name": "GES Formación",
-        "description": "Centro formativo en Barcelona",
+        "description": "GES Formación",
+        "name": "Centro formativo en Barcelona",
         "latitude": -7.716667,
         "longitude": -51.5,
         "idCountry": 1,
