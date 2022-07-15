@@ -1,55 +1,55 @@
 [
     {
         "id": 1,
-        "name": "ES Potencia 1",
+        "name": "Hydrobattery plus",
         "description": "Descripcion Potencia 1",
         "idFamily": 1
     },
     {
         "id": 2,
-        "name": "ES Potencia 2",
+        "name": "Hydropowerplus",
         "description": "desc",
         "idFamily": 2
     },
     {
         "id": 8,
-        "name": "Potencia 1 de familia 1 y categoria 1",
+        "name": "Hydro 5600",
         "description": "Potencía número de familia 1 y categoría 1",
         "idFamily": 1
     },
     {
         "id": 9,
-        "name": "Minimaxx",
+        "name": "Minimaxx KME",
         "description": "Minimaxx",
         "idFamily": 8
     },
     {
         "id": 10,
-        "name": "Hydrocompact",
+        "name": "Minimaxx Excellence ",
         "description": "Hydrocompact",
         "idFamily": 9
     },
     {
         "id": 11,
-        "name": "Celsius Pur/Next",
+        "name": "Hydrocompact",
         "description": "Celsius Pur/Next",
         "idFamily": 8
     },
     {
         "id": 12,
-        "name": "Waternox HP",
+        "name": "Hydro 4200",
         "description": "Waternox HP",
         "idFamily": 12
     },
     {
         "id": 13,
-        "name": "Cerapur",
+        "name": "Celsius Pur/Next",
         "description": "Cerapur",
         "idFamily": 14
     },
     {
         "id": 14,
-        "name": "Cerapur Confort",
+        "name": "Hydro 4300",
         "description": "Cerapur Confort",
         "idFamily": 15
     },
