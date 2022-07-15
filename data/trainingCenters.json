@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name": "Acqua Calderas",
-        "description": "Centro formativo Zaragoza",
+        "name": "Ingeniería y Gestión Aragón S.L",
+        "description": "Centro formativo en Zaragoza",
         "latitude": -7.716667,
         "longitude": -51.5,
         "idCountry": 1,
@@ -10,8 +10,8 @@
     },
     {
         "id": 2,
-        "name": "Núcleos potencia",
-        "description": "Centro formativo Madrid",
+        "name": "Ingeniería técnica automovilística",
+        "description": "Centro formativo en Madrid",
         "latitude": -8.06667,
         "longitude": -51.46667,
         "idCountry": 1,
@@ -19,8 +19,8 @@
     },
     {
         "id": 8,
-        "name": "Ciclos recreativos",
-        "description": "Centro formativo Barcelona",
+        "name": "GES Formación",
+        "description": "Centro formativo en Barcelona",
         "latitude": -7.716667,
         "longitude": -51.5,
         "idCountry": 1,
