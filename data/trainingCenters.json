@@ -5,6 +5,7 @@
         "name": "Centro formativo en Zaragoza",
         "latitude": -7.716667,
         "longitude": -51.5,
+        "link": "https://www.bosch.com",
         "idCountry": 1,
         "image_url": "https://www.boschaftermarket.com/xrm/media/images/country_specific/gb/services_2/training_and_certifications/image_1_training_centre_res_800x450.jpg"
     },
@@ -14,6 +15,7 @@
         "name": "Centro formativo en Madrid",
         "latitude": -8.06667,
         "longitude": -51.46667,
+        "link": "https://www.bosch-home.es",
         "idCountry": 1,
         "image_url": "https://www.bosch-presse.de/pressportal/de/media/dam_images_br/pi9913br/centro_de_treinamento_tecnico_automotivo-4800800x450_img_w1280.jpg"
     },
@@ -23,6 +25,7 @@
         "name": "Centro formativo en Barcelona",
         "latitude": -7.716667,
         "longitude": -51.5,
+        "link": "",
         "idCountry": 1,
         "image_url": "http://media3.bosch-home.com/Images/MCIM02033849_INAUGURACION-BCC-4.jpg"
     }
